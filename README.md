@@ -70,3 +70,5 @@ Level Transition: After score threshold, load a new environment.
 Game Over: If life = 0 or miss limit exceeded.
 Win Condition: Rescue hostage in the final level.
 
+lab file link: https://drive.google.com/drive/folders/1YHYn6bUgN3m12jntBqctclMg5-Mrna9r
+
